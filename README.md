@@ -32,6 +32,4 @@ http://localhost:5000
 
 ## License
 
-MIT
-
 **Free Software, Hell Yeah!**
